@@ -1,2 +1,7 @@
 Hello Everyone. 
 This is a new day, and I'm learning about Git, GitHub and version control :)
+
+
+So now I'm making changes in my chapters to learn about branching in git.
+I hope I do well :)
+
